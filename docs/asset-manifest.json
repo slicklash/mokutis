@@ -1,12 +1,12 @@
 {
-  "files": {
-    "main.css": "/static/css/main.cb68301c.css",
-    "main.js": "/static/js/main.0674ae86.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html"
-  },
-  "entrypoints": [
-    "static/css/main.cb68301c.css",
-    "static/js/main.0674ae86.js"
-  ]
+	"files": {
+		"assets/index-DbH0nNZW.css": "assets/index-DbH0nNZW.css",
+		"assets/index-CKQhuF0W.js": "assets/index-CKQhuF0W.js",
+		"index.html": "index.html",
+		"manifest.webmanifest": "manifest.webmanifest",
+		"registerSW.js": "registerSW.js"
+	},
+	"entrypoints": [
+		"assets/index-CKQhuF0W.js"
+	]
 }
