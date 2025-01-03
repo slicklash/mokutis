@@ -1,12 +1,12 @@
 {
 	"files": {
 		"assets/index-DbH0nNZW.css": "assets/index-DbH0nNZW.css",
-		"assets/index-CKQhuF0W.js": "assets/index-CKQhuF0W.js",
-		"index.html": "index.html",
-		"manifest.webmanifest": "manifest.webmanifest",
+		"assets/index-BbuMH2eU.js": "assets/index-BbuMH2eU.js",
+		"index.html": "index.html"
+		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-CKQhuF0W.js"
+		"assets/index-BbuMH2eU.js"
 	]
 }
