@@ -1,15 +1,15 @@
 {
 	"files": {
-		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
+		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/index-CG71OLzy.css": "assets/index-CG71OLzy.css",
-		"assets/index-CwzOY6Cg.js": "assets/index-CwzOY6Cg.js",
+		"assets/index-DxsSS9a4.js": "assets/index-DxsSS9a4.js",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-CwzOY6Cg.js"
+		"assets/index-DxsSS9a4.js"
 	]
 }
