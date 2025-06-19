@@ -4,12 +4,12 @@
 		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
 		"assets/index-6sm4N8Ja.css": "assets/index-6sm4N8Ja.css",
-		"assets/index-DcY_G-F8.js": "assets/index-DcY_G-F8.js",
+		"assets/index-CWceeS1F.js": "assets/index-CWceeS1F.js",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-DcY_G-F8.js"
+		"assets/index-CWceeS1F.js"
 	]
 }
