@@ -5,14 +5,14 @@
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
 		"assets/index-BovmZWNZ.css": "assets/index-BovmZWNZ.css",
 		"assets/vendor-Byx97iBs.js": "assets/vendor-Byx97iBs.js",
-		"assets/index-UGBJBGuk.js": "assets/index-UGBJBGuk.js",
-		"assets/index-DRecI2cS.js": "assets/index-DRecI2cS.js",
-		"assets/index-KD1T06vv.js": "assets/index-KD1T06vv.js",
+		"assets/index-CbW80VfE.js": "assets/index-CbW80VfE.js",
+		"assets/index-CtIfVSHy.js": "assets/index-CtIfVSHy.js",
+		"assets/index-BAdRinDA.js": "assets/index-BAdRinDA.js",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-UGBJBGuk.js"
+		"assets/index-CbW80VfE.js"
 	]
 }
