@@ -1,18 +1,18 @@
 {
 	"files": {
-		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
+		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
-		"assets/index-BN3h40WJ.css": "assets/index-BN3h40WJ.css",
+		"assets/index-D98mdtMh.css": "assets/index-D98mdtMh.css",
 		"assets/vendor-ByaBIqpc.js": "assets/vendor-ByaBIqpc.js",
-		"assets/index-DeiCnU44.js": "assets/index-DeiCnU44.js",
-		"assets/index-8aP6v2RK.js": "assets/index-8aP6v2RK.js",
-		"assets/index-CadgTJhV.js": "assets/index-CadgTJhV.js",
+		"assets/index-xnMAZgp8.js": "assets/index-xnMAZgp8.js",
+		"assets/index-Bz1MZzSx.js": "assets/index-Bz1MZzSx.js",
+		"assets/index-D_Qteqfw.js": "assets/index-D_Qteqfw.js",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-DeiCnU44.js"
+		"assets/index-xnMAZgp8.js"
 	]
 }
