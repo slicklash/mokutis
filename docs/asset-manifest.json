@@ -1,18 +1,18 @@
 {
 	"files": {
 		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
-		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
-		"assets/index-D98mdtMh.css": "assets/index-D98mdtMh.css",
-		"assets/vendor-DJKlXOSn.js": "assets/vendor-DJKlXOSn.js",
-		"assets/index-C_VVH322.js": "assets/index-C_VVH322.js",
-		"assets/index-DWhzDXd_.js": "assets/index-DWhzDXd_.js",
-		"assets/index-DQXGrUON.js": "assets/index-DQXGrUON.js",
+		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+		"assets/index-Crfwl39p.css": "assets/index-Crfwl39p.css",
+		"assets/vendor-BeLpLtcD.js": "assets/vendor-BeLpLtcD.js",
+		"assets/index-q9CDPbjE.js": "assets/index-q9CDPbjE.js",
+		"assets/index-BneH54p5.js": "assets/index-BneH54p5.js",
+		"assets/index-OmuQLk6j.js": "assets/index-OmuQLk6j.js",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-C_VVH322.js"
+		"assets/index-q9CDPbjE.js"
 	]
 }
