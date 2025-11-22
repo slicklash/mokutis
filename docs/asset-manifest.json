@@ -1,18 +1,18 @@
 {
 	"files": {
-		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
+		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
 		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"assets/index-CIplhL5w.css": "assets/index-CIplhL5w.css",
 		"assets/vendor-BeLpLtcD.js": "assets/vendor-BeLpLtcD.js",
-		"assets/index-Ck5yEVlt.js": "assets/index-Ck5yEVlt.js",
-		"assets/index-DovrSgiI.js": "assets/index-DovrSgiI.js",
-		"assets/index-B8qrXgje.js": "assets/index-B8qrXgje.js",
+		"assets/index-PsqoDD5S.js": "assets/index-PsqoDD5S.js",
+		"assets/index-BakDoXKz.js": "assets/index-BakDoXKz.js",
+		"assets/index-DPxDKCZB.js": "assets/index-DPxDKCZB.js",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-Ck5yEVlt.js"
+		"assets/index-PsqoDD5S.js"
 	]
 }
