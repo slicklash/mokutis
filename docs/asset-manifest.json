@@ -1,20 +1,21 @@
 {
 	"files": {
-		"assets/index-Bvtjd_Rx.js": "assets/index-Bvtjd_Rx.js",
-		"assets/abc-DqQj1yw6.js": "assets/abc-DqQj1yw6.js",
-		"assets/english-6S36NSTE.js": "assets/english-6S36NSTE.js",
-		"assets/italian-CLwzRswG.js": "assets/italian-CLwzRswG.js",
-		"assets/rolldown-runtime-297CnYNL.js": "assets/rolldown-runtime-297CnYNL.js",
-		"assets/vendor-DCd8J90z.js": "assets/vendor-DCd8J90z.js",
-		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+		"assets/index-Gz5N9LQK.js": "assets/index-Gz5N9LQK.js",
+		"assets/abc-C8ZlOeNF.js": "assets/abc-C8ZlOeNF.js",
+		"assets/english-BH9mS_FA.js": "assets/english-BH9mS_FA.js",
+		"assets/italian-s0tFLMp1.js": "assets/italian-s0tFLMp1.js",
+		"assets/rolldown-runtime-FPZURlb5.js": "assets/rolldown-runtime-FPZURlb5.js",
+		"assets/utils-DPSMhkI3.js": "assets/utils-DPSMhkI3.js",
+		"assets/vendor-DxwdUtIH.js": "assets/vendor-DxwdUtIH.js",
+		"assets/index-doh2tOc4.css": "assets/index-doh2tOc4.css",
 		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
-		"assets/index-Dk0QeSVU.css": "assets/index-Dk0QeSVU.css",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
+		"assets/material-symbols-sharp-DQLBrjHA.woff2": "assets/material-symbols-sharp-DQLBrjHA.woff2",
 		"index.html": "index.html",
 		"manifest.json": "manifest.json",
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-Bvtjd_Rx.js"
+		"assets/index-Gz5N9LQK.js"
 	]
 }
