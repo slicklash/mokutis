@@ -1,9 +1,9 @@
 {
 	"files": {
-		"assets/index-Gz5N9LQK.js": "assets/index-Gz5N9LQK.js",
-		"assets/abc-C8ZlOeNF.js": "assets/abc-C8ZlOeNF.js",
-		"assets/english-BH9mS_FA.js": "assets/english-BH9mS_FA.js",
-		"assets/italian-s0tFLMp1.js": "assets/italian-s0tFLMp1.js",
+		"assets/index-D0BwB0yh.js": "assets/index-D0BwB0yh.js",
+		"assets/abc-BpyZFA8n.js": "assets/abc-BpyZFA8n.js",
+		"assets/english-DHXnEmzx.js": "assets/english-DHXnEmzx.js",
+		"assets/italian-DvAyHLM-.js": "assets/italian-DvAyHLM-.js",
 		"assets/rolldown-runtime-FPZURlb5.js": "assets/rolldown-runtime-FPZURlb5.js",
 		"assets/utils-DPSMhkI3.js": "assets/utils-DPSMhkI3.js",
 		"assets/vendor-DxwdUtIH.js": "assets/vendor-DxwdUtIH.js",
@@ -16,6 +16,6 @@
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-Gz5N9LQK.js"
+		"assets/index-D0BwB0yh.js"
 	]
 }
