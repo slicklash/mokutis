@@ -1,12 +1,12 @@
 {
 	"files": {
-		"assets/index-D0BwB0yh.js": "assets/index-D0BwB0yh.js",
-		"assets/abc-BpyZFA8n.js": "assets/abc-BpyZFA8n.js",
-		"assets/english-DHXnEmzx.js": "assets/english-DHXnEmzx.js",
-		"assets/italian-DvAyHLM-.js": "assets/italian-DvAyHLM-.js",
+		"assets/index-DOdYT8BH.js": "assets/index-DOdYT8BH.js",
+		"assets/abc-CNeoGziA.js": "assets/abc-CNeoGziA.js",
+		"assets/english-CbtxfxNU.js": "assets/english-CbtxfxNU.js",
+		"assets/italian-CCBui62W.js": "assets/italian-CCBui62W.js",
 		"assets/rolldown-runtime-FPZURlb5.js": "assets/rolldown-runtime-FPZURlb5.js",
 		"assets/utils-DPSMhkI3.js": "assets/utils-DPSMhkI3.js",
-		"assets/vendor-DxwdUtIH.js": "assets/vendor-DxwdUtIH.js",
+		"assets/vendor-ClXOWeF4.js": "assets/vendor-ClXOWeF4.js",
 		"assets/index-doh2tOc4.css": "assets/index-doh2tOc4.css",
 		"assets/material-symbols-outlined-BZinq3R6.woff2": "assets/material-symbols-outlined-BZinq3R6.woff2",
 		"assets/material-symbols-rounded-DVluyMkh.woff2": "assets/material-symbols-rounded-DVluyMkh.woff2",
@@ -16,6 +16,6 @@
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-D0BwB0yh.js"
+		"assets/index-DOdYT8BH.js"
 	]
 }
