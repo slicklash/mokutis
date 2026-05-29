@@ -1,9 +1,9 @@
 {
 	"files": {
-		"assets/index-gBmlH8Rj.js": "assets/index-gBmlH8Rj.js",
-		"assets/abc-DtOg6wVU.js": "assets/abc-DtOg6wVU.js",
-		"assets/english-KsSRrDHH.js": "assets/english-KsSRrDHH.js",
-		"assets/italian-R-u6YK3e.js": "assets/italian-R-u6YK3e.js",
+		"assets/index-BK_TRl6h.js": "assets/index-BK_TRl6h.js",
+		"assets/abc-rLhclcF9.js": "assets/abc-rLhclcF9.js",
+		"assets/english-BNROTRXa.js": "assets/english-BNROTRXa.js",
+		"assets/italian-D1ZiMrZ_.js": "assets/italian-D1ZiMrZ_.js",
 		"assets/rolldown-runtime-BwKqro0g.js": "assets/rolldown-runtime-BwKqro0g.js",
 		"assets/vendor-RZxgrZkk.js": "assets/vendor-RZxgrZkk.js",
 		"assets/index-doh2tOc4.css": "assets/index-doh2tOc4.css",
@@ -15,6 +15,6 @@
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-gBmlH8Rj.js"
+		"assets/index-BK_TRl6h.js"
 	]
 }
