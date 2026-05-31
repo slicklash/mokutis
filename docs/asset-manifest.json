@@ -1,9 +1,9 @@
 {
 	"files": {
-		"assets/index-DbNxVIzs.js": "assets/index-DbNxVIzs.js",
-		"assets/abc-Cp4Kp2k0.js": "assets/abc-Cp4Kp2k0.js",
-		"assets/english-DTiHVZiI.js": "assets/english-DTiHVZiI.js",
-		"assets/italian-afx9LrD2.js": "assets/italian-afx9LrD2.js",
+		"assets/index-BEsr3G8C.js": "assets/index-BEsr3G8C.js",
+		"assets/abc-yfaiUGJi.js": "assets/abc-yfaiUGJi.js",
+		"assets/english-coOdQrYp.js": "assets/english-coOdQrYp.js",
+		"assets/italian-BnWuc6N4.js": "assets/italian-BnWuc6N4.js",
 		"assets/rolldown-runtime-BwKqro0g.js": "assets/rolldown-runtime-BwKqro0g.js",
 		"assets/vendor-RZxgrZkk.js": "assets/vendor-RZxgrZkk.js",
 		"assets/index-doh2tOc4.css": "assets/index-doh2tOc4.css",
@@ -15,6 +15,6 @@
 		"registerSW.js": "registerSW.js"
 	},
 	"entrypoints": [
-		"assets/index-DbNxVIzs.js"
+		"assets/index-BEsr3G8C.js"
 	]
 }
